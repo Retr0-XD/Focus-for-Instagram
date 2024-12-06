@@ -47,7 +47,7 @@ A Chrome extension that helps you stay focused while using Instagram by removing
 ### Local Development
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/focus-for-instagram.git
+git clone https://github.com/Retr0-XD/focus-for-instagram.git
 ```
 2. Make your changes
 3. Load the extension in Chrome using Developer mode
@@ -67,4 +67,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 
 
-Project Link: [https://github.com/yourusername/focus-for-instagram](https://github.com/Retr0-XD/focus-for-instagram)
+Project Link: [https://github.com/Retr0-XD/focus-for-instagram](https://github.com/Retr0-XD/focus-for-instagram)
