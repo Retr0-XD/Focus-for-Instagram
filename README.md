@@ -66,6 +66,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [@yourusername](https://twitter.com/yourusername)
 
-Project Link: [https://github.com/yourusername/focus-for-instagram](https://github.com/yourusername/focus-for-instagram)
+Project Link: [https://github.com/yourusername/focus-for-instagram](https://github.com/Retr0-XD/focus-for-instagram)
