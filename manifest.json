@@ -1,0 +1,27 @@
+{
+  "manifest_version": 3,
+  "name": "Focus for Instagram",
+  "version": "1.0.0",
+  "description": "Minimize distractions on Instagram by hiding Reels, suggested posts, and limiting feed scrolling. Stay focused on meaningful interactions.",
+  "author": "Retr0XD",
+  "homepage_url": "https://github.com/Retr0XD/focus-for-instagram",
+  "permissions": [
+    "activeTab"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["*://*.instagram.com/*"],
+      "js": ["content.js"],
+      "css": ["styles.css"],
+      "run_at": "document_start"
+    }
+  ],
+  "web_accessible_resources": [{
+    "resources": ["assets/image.png"],
+    "matches": ["*://*.instagram.com/*"]
+  }],
+  "icons": {
+    "48": "icon48.png",
+    "128": "icon128.png"
+  }
+}
